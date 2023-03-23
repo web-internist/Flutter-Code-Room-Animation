@@ -2,6 +2,8 @@ import 'package:first_app/utils/colors.dart';
 import 'package:flutter/cupertino.dart';
 import 'package:flutter/material.dart';
 
+//light switch animation
+
 class LightSwitch extends StatefulWidget {
   const LightSwitch({Key? key}) : super(key: key);
 
